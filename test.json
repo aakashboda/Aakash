@@ -3,14 +3,7 @@
         {
             "id": 1,
             "categoryName": "Document                                                                                            ",
-            "remark": "sfd",
-            "createdBy": "2b950a70-0300-4ba4-ab9a-20c093788426",
-            "createdDate": "2019-01-01T00:00:00",
-            "updatedBy": "2b950a70-0300-4ba4-ab9a-20c093788426",
-            "updatedDate": "2019-01-01T00:00:00",
-            "isDelete": false,
-            "createdByNavigation": null,
-            "updatedByNavigation": null
+            "remark": "sfd"
         }
     ]
 }
